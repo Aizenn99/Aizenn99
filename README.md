@@ -13,7 +13,7 @@
 - 🚀 Passionate about blending **design and code** to build impactful digital products
 - 💼 Actively building full-stack apps using the **MERN stack**
 - 🧠 Exploring **Machine Learning**, **AI tools**, and real-world use cases
-- 🌐 Portfolio: [https://hetkalriya.netlify.app](https://hetkalriya.netlify.app)
+- 🌐 Portfolio: [https://time-loop-beta.vercel.app/](https://time-loop-beta.vercel.app/)
 - 📬 Reach me at: **kalriyahet@gmail.com**
 
 ---
