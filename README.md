@@ -13,7 +13,7 @@
 - 🚀 Passionate about blending **design and code** to build impactful digital products
 - 💼 Actively building full-stack apps using the **MERN stack**
 - 🧠 Exploring **Machine Learning**, **AI tools**, and real-world use cases
-- 🌐 Portfolio: [https://time-loop-beta.vercel.app/](https://time-loop-beta.vercel.app/)
+- 🌐 Portfolio: [https://hetkalriya.vercel.app/](https://hetkalriya.vercel.app/)
 - 📬 Reach me at: **kalriyahet@gmail.com**
 
 ---
@@ -62,7 +62,7 @@
   <a href="mailto:kalriyahet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/het-kalriya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Aizenn99"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://time-loop-beta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://hetkalriya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 </p>
 
 ---
